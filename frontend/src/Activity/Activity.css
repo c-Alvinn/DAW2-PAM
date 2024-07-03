@@ -1,0 +1,22 @@
+.headerActivity {
+    width: 90%;
+}
+
+.headerActivity span {
+    font-size: 20px;
+}
+
+.headerActivity .selectUser {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.containerActivity {
+    width: 90%;
+    overflow-y: auto;
+}

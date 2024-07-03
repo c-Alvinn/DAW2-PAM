@@ -1,0 +1,15 @@
+select {
+    padding: 7px;
+    background-color: #31363F;
+    border-radius: 10px;
+    border: 2px solid #76ABAE;
+    color: white;
+    cursor: pointer;
+}
+
+select:focus {
+    border: 2px solid #469397;
+    border-color: #469397;
+    outline: none;
+    box-shadow: 0px 0px 10px #469397, inset 0px 0px 10px #469397;
+}
